@@ -18,7 +18,7 @@ public class Test001 {
 	 
 	 @Test
 	 public void testC() {
-		 	assertEquals(5, FloorSquareRoot.floorSqrt(26))
+		 	assertEquals(5, FloorSquareRoot.floorSqrt(26));
 	 }
 }
 
